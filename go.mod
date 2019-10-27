@@ -1,4 +1,4 @@
-module github.com/4thel00z/gommons
+module gommons
 
 go 1.13
 
